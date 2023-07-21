@@ -1,4 +1,5 @@
-#Pasos para hacer una pizza casera:
+# Pasos para hacer una pizza casera:
+
 ## PASO 1 
 ### Antes de empezar con la receta de pizza casera fácil resulta fundamental hacer una pequeña aclaración sobre la harina. Para realizar este tipo de masas, la harina más recomendada es la de fuerza, puesto que al contener un mayor porcentaje de gluten el resultado será una masa de pizza casera mucho más esponjosa. En los países de América Latina, sobre todo, este tipo de harina es conocido como harina 00. Ahora bien, si quieres hacer pizza casera sin gluten, consulta esta otra receta.
 ## PASO 2 
