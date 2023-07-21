@@ -1,4 +1,4 @@
-# Pasos para hacer una pizza casera:
+
 
 ## PASO 5
 
